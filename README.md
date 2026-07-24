@@ -1,2 +1,2 @@
-# GANNT
-GANNT tracker for retailer onboarding
+# GANTT
+GANTT tracker for retailer onboarding
